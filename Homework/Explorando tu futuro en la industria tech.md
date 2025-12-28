@@ -1,8 +1,4 @@
-Perfecto. Aquí tienes una **redacción clara, amigable y motivadora**, pensada para un desarrollador junior, sin sonar acartonada ni cursi.
-
----
-
-### 🧭 Tarea: Explorando tu futuro en la industria tech
+# 🧭 Tarea: Explorando tu futuro en la industria tech
 
 La industria de la tecnología es enorme y llena de caminos posibles. Esta tarea tiene un objetivo muy concreto: ayudarte a **entender de verdad** qué profesiones existen, cómo se viven en el día a día y cuál encaja mejor contigo, más allá de suposiciones o ideas vagas.
 
